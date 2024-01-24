@@ -7,3 +7,4 @@ def filter_strings(array):
 
 array1 = ["Hello", "2", "world", ":-)"]
 array2 = ["1234", "1567", "-2", "computer science"]
+array3 = ["Russia", "Denmark", "Kazan"]
