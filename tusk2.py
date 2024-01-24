@@ -12,3 +12,7 @@ array3 = ["Russia", "Denmark", "Kazan"]
 new_array1 = filter_strings(array1)
 new_array2 = filter_strings(array2)
 new_array3 = filter_strings(array3)
+
+print(new_array1)  
+print(new_array2)  
+print(new_array3)
