@@ -6,3 +6,4 @@ def filter_strings(array):
     return result
 
 array1 = ["Hello", "2", "world", ":-)"]
+array2 = ["1234", "1567", "-2", "computer science"]
